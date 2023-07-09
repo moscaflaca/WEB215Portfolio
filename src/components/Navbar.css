@@ -1,0 +1,9 @@
+#NavbarName{
+    font-size: x-large;
+    background-color: #e4fafe;
+    text-align: center;
+    border-radius: 15px 50px 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-image: linear-gradient(to right, #e4fafe, #daedff);
+}
